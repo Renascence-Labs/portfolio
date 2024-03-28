@@ -10,7 +10,7 @@
 | Slashproof      | March 2024    |                                                                     |
 | Arcade DAO      | March 2024    |                                                                     |
 | PartyDAO        | March 2024    |                                                                     |
-| Phuture         | February 2024 |                                                                     |
+| Phuture V2      | February 2024 |                                                                     |
 | PartyDAO        | February 2024 |                                                                     |
 | Arcade V2       | February 2024 |                                                                     |
 | Locksmith       | January 2024  |                                                                     |
