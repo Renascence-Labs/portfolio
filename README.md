@@ -4,6 +4,7 @@
 
 | Product         | Date          |                               Report                                |
 | :-------------- | :------------ | :-----------------------------------------------------------------: |
+| Undisclosed     | April 2024    |                                                                     | 
 | Diva Staking    | April 2024    |                                                                     |
 | PartyDAO        | April 2024    |                                                                     |
 | Karak Restaking | March 2024    |                                                                     |
