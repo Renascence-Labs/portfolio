@@ -10,6 +10,7 @@
 | Redacted        | April 2024    |                                                                     |
 | Karak Restaking | March 2024    |                                                                     |
 | Karak L2        | March 2024    |                                                                     |
+| Undisclosed     | March 2024    |                                                                     |
 | Slashproof      | March 2024    |                                                                     |
 | Arcade DAO      | March 2024    |                                                                     |
 | PartyDAO        | March 2024    |                                                                     |
