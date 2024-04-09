@@ -4,6 +4,7 @@
 
 | #   | Product         | Date          |                                 Report                                  |
 | --- | :-------------- | :------------ | :---------------------------------------------------------------------: |
+| 17  | Undisclosed     | April 2024    |                                                                         |
 | 16  | Morpheus Update | April 2024    |                                                                         |
 | 15  | Diva Staking    | April 2024    |                                                                         |
 | 14  | PartyDAO        | April 2024    |                                                                         |
@@ -11,7 +12,7 @@
 | 12  | Karak Restaking | March 2024    |                                                                         |
 | 11  | Karak L2        | March 2024    |                                                                         |
 | 10  | Undisclosed     | March 2024    |                                                                         |
-| 9   | Slashproof      | March 2024    |   [📋](./reports/Slashproof%20-%20Renascence%20Audit%20Report.pdf)   |
+| 9   | Slashproof      | March 2024    |    [📋](./reports/Slashproof%20-%20Renascence%20Audit%20Report.pdf)    |
 | 8   | Arcade DAO      | March 2024    | [📋](./reports/Arcade%20Staking%20-%20Renascence%20Audit%20Report.pdf) |
 | 7   | PartyDAO        | March 2024    |                                                                         |
 | 6   | Phuture V2      | February 2024 |                                                                         |
