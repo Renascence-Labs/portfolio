@@ -4,10 +4,11 @@
 
 | #   | Product         | Date          |                                 Report                                  |
 | --- | :-------------- | :------------ | :---------------------------------------------------------------------: |
-| 22  | Undisclosed     | May 2024      |                                                                         |
-| 21  | Undisclosed     | May 2024      |                                                                         |
-| 20  | Undisclosed     | May 2024      |                                                                         |
-| 19  | Undisclosed     | May 2024      |                                                                         |
+| 23  | Undisclosed     | June 2024     |                                                                         |
+| 22  | Morpheus MOR20  | May 2024      |                                                                         |
+| 21  | Agent Exchange  | May 2024      |                                                                         |
+| 20  | Magna           | May 2024      |                                                                         |
+| 19  | Karak V2        | May 2024      |                                                                         |
 | 18  | Morpheus Update | May 2024      |                                                                         |
 | 17  | Wenwin          | April 2024    |                                                                         |
 | 16  | Morpheus Update | April 2024    |                                                                         |
