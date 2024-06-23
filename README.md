@@ -5,7 +5,7 @@
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
 | 30  | Undisclosed            | June 2024     |                                                                                     |
-| 29  | Undisclosed            | June 2024     |                                                                                     |
+| 29  | Arcadia Finance        | June 2024     |                                                                                     |
 | 28  | Brett On Base          | June 2024     |                                                                                     |
 | 27  | Dinero Branded LST     | June 2024     |                                                                                     |
 | 26  | Morpheus Router        | June 2024     |                                                                                     |
