@@ -4,15 +4,16 @@
 
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
-| 30  | Undisclosed            | June 2024     |                                                                                     |
+| 31  | Undisclosed            | July 2024     |                                                                                     |
+| 30  | Karak V1.2             | June 2024     |                                                                                     |
 | 29  | Arcadia Finance        | June 2024     |                                                                                     |
-| 28  | Brett On Base          | June 2024     |                                                                                     |
+| 28  | Brett On Base          | June 2024     |            [📋](./reports/Brett%20-%20Renascence%20Audit%20Report.pdf)             |
 | 27  | Dinero Branded LST     | June 2024     |                                                                                     |
 | 26  | Morpheus Router        | June 2024     |                                                                                     |
 | 25  | PartyDAO               | June 2024     |                                                                                     |
-| 24  | Tornado Blast          | June 2024     |                                                                                     |
-| 23  | Morpheus MOR20         | May 2024      |                                                                                     |
-| 22  | Agent Exchange         | May 2024      |                                                                                     |
+| 24  | Tornado Blast          | June 2024     |       [📋](./reports/Tornado%20Blast%20-%20Renascence%20Audit%20Report.pdf)        |
+| 23  | Morpheus MOR20         | May 2024      |            [📋](./reports/MOR20%20-%20Renascence%20Audit%20Report.pdf)             |
+| 22  | Agent Exchange         | May 2024      |       [📋](./reports/Agent%20Exchange%20-%20Renascence%20Audit%20Report.pdf)       |
 | 21  | Dinero Protocol Update | May 2024      |                                                                                     |
 | 20  | Magna                  | May 2024      |                                                                                     |
 | 19  | Karak V2               | May 2024      |                                                                                     |
