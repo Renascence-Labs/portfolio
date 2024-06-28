@@ -7,7 +7,7 @@
 | 32  | Undisclosed            | July 2024     |                                                                                     |
 | 31  | Undisclosed            | July 2024     |                                                                                     |
 | 30  | Karak V1.2             | June 2024     |                                                                                     |
-| 29  | Arcadia Finance        | June 2024     |                                                                                     |
+| 29  | Arcadia Finance        | June 2024     |           [📋](./reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf)            |
 | 28  | Brett On Base          | June 2024     |            [📋](./reports/Brett%20-%20Renascence%20Audit%20Report.pdf)             |
 | 27  | Dinero Branded LST     | June 2024     |                                                                                     |
 | 26  | Morpheus Router        | June 2024     |                                                                                     |
