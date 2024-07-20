@@ -4,11 +4,12 @@
 
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
+| 37  | Undisclosed            | July 2024     |                                                                                     |
 | 36  | Undisclosed            | July 2024     |                                                                                     |
 | 35  | Undisclosed            | July 2024     |                                                                                     |
-| 34  | Undisclosed            | July 2024     |                                                                                     |
+| 34  | Morpheus Staking       | July 2024     |                                                                                     |
 | 33  | Karak Native Restaking | July 2024     |  [📋](./reports/Renascence%20-%20Karak%20Native%20Restaking%20Audit%20Report.pdf)  |
-| 32  | Morpheus               | July 2024     |                                                                                     |
+| 32  | Morpheus Lumerin Node  | July 2024     |                                                                                     |
 | 31  | Identity.com           | July 2024     |                                                                                     |
 | 30  | Karak V1.2             | June 2024     |                                                                                     |
 | 29  | Arcadia Finance        | June 2024     |           [📋](./reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf)            |
