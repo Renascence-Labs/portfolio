@@ -5,8 +5,8 @@
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
 | 37  | Undisclosed            | July 2024     |                                                                                     |
-| 36  | Undisclosed            | July 2024     |                                                                                     |
-| 35  | Undisclosed            | July 2024     |                                                                                     |
+| 36  | PartyDAO               | July 2024     |                                                                                     |
+| 35  | Celo                   | July 2024     |                                                                                     |
 | 34  | Morpheus Staking       | July 2024     |                                                                                     |
 | 33  | Karak Native Restaking | July 2024     |  [📋](./reports/Renascence%20-%20Karak%20Native%20Restaking%20Audit%20Report.pdf)  |
 | 32  | Morpheus Lumerin Node  | July 2024     |                                                                                     |
