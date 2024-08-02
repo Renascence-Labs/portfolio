@@ -4,6 +4,8 @@
 
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
+| 40  | Undisclosed            | August 2024   |                                                                                     |
+| 39  | Undisclosed            | August 2024   |                                                                                     |
 | 38  | Undisclosed            | July 2024     |                                                                                     |
 | 37  | Undisclosed            | July 2024     |                                                                                     |
 | 36  | PartyDAO               | July 2024     |                                                                                     |
