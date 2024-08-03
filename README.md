@@ -4,10 +4,12 @@
 
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
-| 40  | Undisclosed            | August 2024   |                                                                                     |
-| 39  | Undisclosed            | August 2024   |                                                                                     |
-| 38  | Undisclosed            | July 2024     |                                                                                     |
-| 37  | Undisclosed            | July 2024     |                                                                                     |
+| 42  | Undisclosed            | August 2024   |                                                                                     |
+| 41  | Dinero                 | August 2024   |                                                                                     |
+| 40  | Party                  | August 2024   |                                                                                     |
+| 39  | Morpheus               | August 2024   |                                                                                     |
+| 38  | G8Keep                 | July 2024     |                                                                                     |
+| 37  | Philand                | July 2024     |                                                                                     |
 | 36  | PartyDAO               | July 2024     |                                                                                     |
 | 35  | Celo                   | July 2024     |                                                                                     |
 | 34  | Morpheus Staking       | July 2024     |                                                                                     |
