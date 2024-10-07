@@ -4,7 +4,12 @@
 
 | #   | Product                | Date          |                                       Report                                        |
 | --- | :--------------------- | :------------ | :---------------------------------------------------------------------------------: |
-| 42  | Undisclosed            | August 2024   |                                                                                     |
+| 47  | SmartSession               | October 2024   |                                                                                     |
+| 46  | Tempest               | September 2024   |                                                                                     |
+| 45  | Dinero               | September 2024   |                                                                                     |
+| 44  | Party               | September 2024   |                                                                                     |
+| 43  | Morpheus               | September 2024   |                                                                                     |
+| 42  | Tempest                | August 2024   |                                                                                     |
 | 41  | Dinero                 | August 2024   |                                                                                     |
 | 40  | Party                  | August 2024   |                                                                                     |
 | 39  | Morpheus               | August 2024   |                                                                                     |
